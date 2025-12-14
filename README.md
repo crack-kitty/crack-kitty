@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @crack-kitty
 - 👀 I’m interested in Homelab. Smart Home.
-- 🌱 I’m currently learning networking, docker, hypervisors... the list is too long.
-- 💞️ I’m looking to collaborate on anything I can, I don't know much code....
-- 📫 How to reach me:  not sure, can you message me on github...I'm new here? :)
+- 🌱 I’m currently learning how to use my brain.
+- 💞️ I collaborate by asking a lot of questions which helps people make better idiot-proof documentation.
 
 <!---
 crack-kitty/crack-kitty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
