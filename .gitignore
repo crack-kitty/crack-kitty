@@ -1,0 +1,11 @@
+# MCP Server Configuration (sensitive)
+claude_mcp_config.json
+*mcp*.json
+.mcp/
+
+# Environment and secrets
+.env
+.env.local
+*.key
+*.pem
+credentials.json
